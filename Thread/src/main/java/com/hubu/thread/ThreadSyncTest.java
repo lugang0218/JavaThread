@@ -1,4 +1,4 @@
-package com.hubu.test;
+package com.hubu.thread;
 
 
 import java.util.ArrayList;
