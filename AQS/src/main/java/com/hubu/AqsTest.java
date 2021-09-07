@@ -3,8 +3,6 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 /**
- *
- *
  * Aqs测试
  */
 public class AqsTest implements Runnable {

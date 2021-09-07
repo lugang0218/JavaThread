@@ -29,7 +29,6 @@ public class Monitor{
                 }
             }
         };
-
         monitorThread=new Thread(task);
         monitorThread.start();
     }
